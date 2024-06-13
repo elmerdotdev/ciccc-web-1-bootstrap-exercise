@@ -10,7 +10,6 @@ Try to replicate the images inside the `design` directory.
 
 1. **Setup the Project:**
     - Create an HTML file and link to the Bootstrap CDN.
-    - Create a custom CSS file for any additional styling.
 
 2. **Create the Header:**
     - Add a navigation bar with links. (code already provided)
@@ -31,7 +30,7 @@ Try to replicate the images inside the `design` directory.
 
 ### 1. Setup the Project
 
-Create an HTML file named `index.html` and include the Bootstrap CDN and a custom CSS file.
+Create an HTML file named `index.html` and include the Bootstrap CDN.
 
 ```html
 <!DOCTYPE html>
