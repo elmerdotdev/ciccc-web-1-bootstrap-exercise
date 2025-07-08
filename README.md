@@ -180,7 +180,7 @@ Create a simple footer with links.
     </div>
   </div>
   <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
-    © 2024 Your Company
+    © Your Company
   </div>
 </footer>
 ```
